@@ -1,0 +1,595 @@
+Filter:
+Group:
+	 
+ID
+	 
+Tags
+	 
+Assign Grp Hours
+	 
+Service
+	 
+Category
+	 
+Email
+	 
+Summary
+	 
+Status
+	 
+Pri
+	 
+Assigned To
+	 
+Created
+	 
+Updated
+	 
+Shopper
+	 
+Src
+	 
+Att
+															
+	26693681	Tags	231.89	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710001219] Malicious content (CYSC.PHISH.SITE.PAYPAL-111) hosted on 50.62.146.11 within your network!	Open	Low	Not Assigned	08/16/2015 03:48:42 PM	08/16/2015 03:48:42 PM		 [Created from Email] 	
+	26696158	Tags	220.90	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710016543] Malicious content (CYSC.PHISH.SITE.EMAIL_GENERIC-2) hosted on 192.186.216.67 within your network!	Open	Low	Not Assigned	08/17/2015 02:48:05 AM	08/17/2015 02:48:05 AM		 [Created from Email] 	
+	26696243	Tags	220.67	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710017346] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 184.168.54.1 within your network!	Open	Low	Not Assigned	08/17/2015 03:02:08 AM	08/17/2015 03:02:08 AM		 [Created from Email] 	
+	26696275	Tags	220.60	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710017561] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 50.63.49.1 within your network!	Open	Low	Not Assigned	08/17/2015 03:06:23 AM	08/17/2015 03:06:23 AM		 [Created from Email] 	
+	26696316	Tags	220.48	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710017801] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 23.229.184.183 within your network!	Open	Low	Not Assigned	08/17/2015 03:13:16 AM	08/17/2015 03:13:16 AM		 [Created from Email] 	
+	26696431	Tags	220.15	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710018551] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 118.139.174.1 within your network!	Open	Low	Not Assigned	08/17/2015 03:33:21 AM	08/17/2015 03:33:21 AM		 [Created from Email] 	
+	26696495	Tags	219.98	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710018998] Malicious content (CYSC.PHISH.SITE.PAYPAL-111) hosted on 166.62.28.105 within your network!	Open	Low	Not Assigned	08/17/2015 03:43:17 AM	08/17/2015 03:43:17 AM		 [Created from Email] 	
+	26696529	Tags	219.88	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710019246] Malicious content (CYSC.PHISH.SITE.HOTMAIL-3) hosted on 192.169.244.238 within your network!	Open	Low	Not Assigned	08/17/2015 03:49:14 AM	08/17/2015 03:49:14 AM		 [Created from Email] 	
+	26696982	Tags	219.44	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710020403] Malicious content (CYSC.PHISH.SITE.HOTMAIL-3) hosted on 192.169.213.39 within your network!	Open	Low	Not Assigned	08/17/2015 04:15:44 AM	08/17/2015 04:15:44 AM		 [Created from Email] 	
+	26697028	Tags	219.29	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710020823] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 192.186.233.215 within your network!	Open	Low	Not Assigned	08/17/2015 04:24:32 AM	08/17/2015 04:24:32 AM		 [Created from Email] 	
+	26697554	Tags	218.04	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710022429] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 184.168.221.16 within your network!	Open	Low	Not Assigned	08/17/2015 05:39:50 AM	08/17/2015 05:39:50 AM		 [Created from Email] 	
+	26698300	Tags	216.49	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710029128] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 50.63.202.66 within your network!	Open	Low	Not Assigned	08/17/2015 07:12:44 AM	08/17/2015 07:12:44 AM		 [Created from Email] 	
+	26699850	Tags	213.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710034372] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 192.186.233.215 within your network!	Open	Low	Not Assigned	08/17/2015 09:52:49 AM	08/17/2015 09:52:49 AM		 [Created from Email] 	
+	26699854	Tags	213.81	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081710034461] Malicious content (CYSC.PHISH.SITE.HOTMAIL-3) hosted on 192.169.244.238 within your network!	Open	Low	Not Assigned	08/17/2015 09:53:41 AM	08/17/2015 09:53:41 AM		 [Created from Email] 	
+	26704049	Tags	205.88	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810005106] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/17/2015 05:49:20 PM	08/17/2015 05:49:20 PM		 [Created from Email] 	
+	26704050	Tags	205.88	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810005115] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/17/2015 05:49:20 PM	08/17/2015 05:49:20 PM		 [Created from Email] 	
+	26706746	Tags	196.32	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810016211] Malicious content (CYSC.PHISH.SITE.HOTMAIL-3) hosted on 192.169.216.203 within your network!	Open	Low	Not Assigned	08/18/2015 03:23:07 AM	08/18/2015 03:23:07 AM		 [Created from Email] 	
+	26708274	Tags	193.48	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810029751] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/18/2015 06:13:35 AM	08/18/2015 06:13:35 AM		 [Created from Email] 	
+	26709273	Tags	191.75	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810036065] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/18/2015 07:57:26 AM	08/18/2015 07:57:26 AM		 [Created from Email] 	
+	26709766	Tags	191.05	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810038116] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/18/2015 08:38:53 AM	08/18/2015 08:38:53 AM		 [Created from Email] 	
+	26709770	Tags	191.05	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810038232] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/18/2015 08:38:54 AM	08/18/2015 08:38:54 AM		 [Created from Email] 	
+	26714316	Tags	178.01	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081810044805] Malicious content (CYSC.PHISH.SITE.WELLSFARGO-11) hosted on 184.168.237.1 within your network!	Open	Low	Not Assigned	08/18/2015 09:41:26 PM	08/18/2015 09:41:26 PM		 [Created from Email] 	
+	26714414	Tags	178.00	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910001153] Malicious content (CYSC.PHISH.SITE.POSTBANK_DE-2) hosted on 72.167.183.34 within your network!	Open	Low	Not Assigned	08/18/2015 09:42:25 PM	08/18/2015 09:42:25 PM		 [Created from Email] 	
+	26714477	Tags	177.99	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910005211] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 50.63.81.1 within your network!	Open	Low	Not Assigned	08/18/2015 09:42:58 PM	08/18/2015 09:42:58 PM		 [Created from Email] 	
+	26714504	Tags	177.98	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910006765] Malicious content (CYSC.PHISH.SITE.GENERIC-8) hosted on 166.62.28.114 within your network!	Open	Low	Not Assigned	08/18/2015 09:43:11 PM	08/18/2015 09:43:11 PM		 [Created from Email] 	
+	26714529	Tags	177.98	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910007871] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 23.229.199.168 within your network!	Open	Low	Not Assigned	08/18/2015 09:43:20 PM	08/18/2015 09:43:20 PM		 [Created from Email] 	
+	26714534	Tags	177.98	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910008067] Malicious content (CYSC.PHISH.SITE.GENERIC-4) hosted on 192.186.243.129 within your network!	Open	Low	Not Assigned	08/18/2015 09:43:21 PM	08/18/2015 09:43:21 PM		 [Created from Email] 	
+	26714579	Tags	177.97	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910010054] Malicious content (CYSC.PHISH.SITE.PAYPAL-115) hosted on 160.153.16.42 within your network!	Open	Low	Not Assigned	08/18/2015 09:43:42 PM	08/18/2015 09:43:42 PM		 [Created from Email] 	
+	26714593	Tags	177.97	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910010483] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 146.255.46.1 within your network!	Open	Low	Not Assigned	08/18/2015 09:43:49 PM	08/18/2015 09:43:49 PM		 [Created from Email] 	
+	26714757	Tags	177.55	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910012374] Malicious content (CYSC.PHISH.SITE.AOL-4) hosted on 50.63.35.1 within your network!	Open	Low	Not Assigned	08/18/2015 10:08:59 PM	08/18/2015 10:08:59 PM		 [Created from Email] 	
+	26715324	Tags	175.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910015255] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 160.153.63.160 within your network!	Open	Low	Not Assigned	08/18/2015 11:54:20 PM	08/18/2015 11:54:20 PM		 [Created from Email] 	
+	26715948	Tags	173.81	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910018869] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 166.62.58.129 within your network!	Open	Low	Not Assigned	08/19/2015 01:53:49 AM	08/19/2015 01:53:49 AM		 [Created from Email] 	
+	26716287	Tags	172.73	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910021113] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 72.167.232.36 within your network!	Open	Low	Not Assigned	08/19/2015 02:58:06 AM	08/19/2015 02:58:06 AM		 [Created from Email] 	
+	26716575	Tags	171.98	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910024996] Malicious content (CYSC.PHISH.SITE.ROYALBANKOFCANADA_CA-2) hosted on 72.167.0.128 within your network!	Open	Low	Not Assigned	08/19/2015 03:43:12 AM	08/19/2015 03:43:12 AM		 [Created from Email] 	
+	26716604	Tags	171.91	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910026725] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 184.168.56.1 within your network!	Open	Low	Not Assigned	08/19/2015 03:47:18 AM	08/19/2015 03:47:18 AM		 [Created from Email] 	
+	26716621	Tags	171.88	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910027108] Malicious content (CYSC.PHISH.SITE.DROPBOX-1) hosted on 182.50.130.37 within your network!	Open	Low	Not Assigned	08/19/2015 03:49:13 AM	08/19/2015 03:49:13 AM		 [Created from Email] 	
+	26716642	Tags	171.84	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910027822] Malicious content (CYSC.PHISH.SITE.APPLE-25) hosted on 160.153.16.24 within your network!	Open	Low	Not Assigned	08/19/2015 03:52:04 AM	08/19/2015 03:52:04 AM		 [Created from Email] 	
+	26716682	Tags	171.72	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910028072] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 50.62.160.79 within your network!	Open	Low	Not Assigned	08/19/2015 03:59:13 AM	08/19/2015 03:59:13 AM		 [Created from Email] 	
+	26717665	Tags	170.53	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910030711] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 184.168.37.1 within your network!	Open	Low	Not Assigned	08/19/2015 05:10:38 AM	08/19/2015 05:10:38 AM		 [Created from Email] 	
+	26717769	Tags	170.36	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910031237] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 184.168.19.8 within your network!	Open	Low	Not Assigned	08/19/2015 05:20:52 AM	08/19/2015 05:20:52 AM		 [Created from Email] 	
+	26717828	Tags	170.25	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910032021] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 184.168.152.2 within your network!	Open	Low	Not Assigned	08/19/2015 05:27:27 AM	08/19/2015 05:27:27 AM		 [Created from Email] 	
+	26717929	Tags	170.08	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910033101] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 50.63.40.1 within your network!	Open	Low	Not Assigned	08/19/2015 05:37:11 AM	08/19/2015 05:37:11 AM		 [Created from Email] 	
+	26718850	Tags	168.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910036831] Malicious content (CYSC.PHISH.SITE.SPARKASSE_DE-3) hosted on 97.74.215.117 within your network!	Open	Low	Not Assigned	08/19/2015 07:15:23 AM	08/19/2015 07:15:23 AM		 [Created from Email] 	
+	26718854	Tags	168.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910036938] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 50.62.74.148 within your network!	Open	Low	Not Assigned	08/19/2015 07:15:23 AM	08/19/2015 07:15:23 AM		 [Created from Email] 	
+	26718870	Tags	168.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910037071] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 184.168.41.1 within your network!	Open	Low	Not Assigned	08/19/2015 07:16:19 AM	08/19/2015 07:16:19 AM		 [Created from Email] 	
+	26718872	Tags	168.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910037133] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 160.153.33.101 within your network!	Open	Low	Not Assigned	08/19/2015 07:16:19 AM	08/19/2015 07:16:19 AM		 [Created from Email] 	
+	26718892	Tags	168.42	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910037482] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 23.229.144.195 within your network!	Open	Low	Not Assigned	08/19/2015 07:17:12 AM	08/19/2015 07:17:12 AM		 [Created from Email] 	
+	26718922	Tags	168.36	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910037786] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 192.186.247.160 within your network!	Open	Low	Not Assigned	08/19/2015 07:20:42 AM	08/19/2015 07:20:42 AM		 [Created from Email] 	
+	26719311	Tags	167.67	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910038445] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 192.186.203.41 within your network!	Open	Low	Not Assigned	08/19/2015 08:02:15 AM	08/19/2015 08:02:15 AM		 [Created from Email] 	
+	26719506	Tags	167.27	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910038669] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 166.62.28.82 within your network!	Open	Low	Not Assigned	08/19/2015 08:25:57 AM	08/19/2015 08:25:57 AM		 [Created from Email] 	
+	26720166	Tags	166.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910040398] Malicious content (CYSC.PHISH.SITE.OUTLOOK-6) hosted on 160.153.16.17 within your network!	Open	Low	Not Assigned	08/19/2015 09:34:21 AM	08/19/2015 09:34:21 AM		 [Created from Email] 	
+	26720285	Tags	165.91	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910040781] Malicious content (CYSC.PHISH.SITE.UPS_COM-1) hosted on 97.74.46.128 within your network!	Open	Low	Not Assigned	08/19/2015 09:47:38 AM	08/19/2015 09:47:38 AM		 [Created from Email] 	
+	26720346	Tags	165.77	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910041173] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.2.218 within your network!	Open	Low	Not Assigned	08/19/2015 09:56:04 AM	08/19/2015 09:56:04 AM		 [Created from Email] 	
+	26720375	Tags	165.71	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910041459] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/19/2015 09:59:31 AM	08/19/2015 09:59:31 AM		 [Created from Email] 	
+	26720455	Tags	165.58	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910041735] Malicious content (CYSC.PHISH.SITE.DROPBOX-1) hosted on 50.63.115.1 within your network!	Open	Low	Not Assigned	08/19/2015 10:07:14 AM	08/19/2015 10:07:14 AM		 [Created from Email] 	
+	26720479	Tags	165.53	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910042225] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 166.62.28.92 within your network!	Open	Low	Not Assigned	08/19/2015 10:10:34 AM	08/19/2015 10:10:34 AM		 [Created from Email] 	
+	26721594	Tags	163.15	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910045393] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.2.218 within your network!	Open	Low	Not Assigned	08/19/2015 12:33:19 PM	08/19/2015 12:33:19 PM		 [Created from Email] 	
+	26721595	Tags	163.15	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910045348] Malicious content (CYSC.PHISH.SITE.CIMBBANK-1) hosted on 97.74.114.49 within your network!	Open	Low	Not Assigned	08/19/2015 12:33:19 PM	08/19/2015 12:33:19 PM		 [Created from Email] 	
+	26722057	Tags	162.28	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910046945] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 160.153.46.198 within your network!	Open	Low	Not Assigned	08/19/2015 01:25:36 PM	08/19/2015 01:25:36 PM		 [Created from Email] 	
+	26722131	Tags	162.10	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910047908] Malicious content (CYSC.PHISH.SITE.GENERIC-4) hosted on 192.186.205.35 within your network!	Open	Low	Not Assigned	08/19/2015 01:36:28 PM	08/19/2015 01:36:28 PM		 [Created from Email] 	
+	26722192	Tags	161.91	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015081910048167] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-9) hosted on 107.180.41.51 within your network!	Open	Low	Not Assigned	08/19/2015 01:47:19 PM	08/19/2015 01:47:19 PM		 [Created from Email] 	
+	26722895	Tags	160.38	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010001267] Malicious content (CYSC.PHISH.SITE.FAKE_ESCROW.EXPLIZIT) hosted on 160.153.72.76 within your network!	Open	Low	Not Assigned	08/19/2015 03:19:24 PM	08/19/2015 03:19:24 PM		 [Created from Email] 	
+	26722896	Tags	160.38	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010001276] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 166.62.28.84 within your network!	Open	Low	Not Assigned	08/19/2015 03:19:24 PM	08/19/2015 03:19:24 PM		 [Created from Email] 	
+	26722927	Tags	160.32	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010001598] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 107.180.41.49 within your network!	Open	Low	Not Assigned	08/19/2015 03:22:59 PM	08/19/2015 03:22:59 PM		 [Created from Email] 	
+	26722929	Tags	160.32	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010001614] Malicious content (CYSC.PHISH.SITE.WELLSFARGO-11) hosted on 23.229.155.255 within your network!	Open	Low	Not Assigned	08/19/2015 03:22:59 PM	08/19/2015 03:22:59 PM		 [Created from Email] 	
+	26723531	Tags	158.83	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010004184] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 68.178.254.128 within your network!	Open	Low	Not Assigned	08/19/2015 04:52:18 PM	08/19/2015 04:52:18 PM		 [Created from Email] 	
+	26723537	Tags	158.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010004335] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 160.153.16.33 within your network!	Open	Low	Not Assigned	08/19/2015 04:53:55 PM	08/19/2015 04:53:55 PM		 [Created from Email] 	
+	26724953	Tags	153.75	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010010793] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/19/2015 09:57:03 PM	08/19/2015 09:57:03 PM		 [Created from Email] 	
+	26724970	Tags	153.70	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010011096] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 107.180.41.84 within your network!	Open	Low	Not Assigned	08/19/2015 10:00:21 PM	08/19/2015 10:00:21 PM		 [Created from Email] 	
+	26725091	Tags	153.35	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010012077] Malicious content (CYSC.PHISH.LAND.CIELO-2) hosted on 107.180.41.86 within your network!	Open	Low	Not Assigned	08/19/2015 10:21:00 PM	08/19/2015 10:21:00 PM		 [Created from Email] 	
+	26725240	Tags	152.79	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010012675] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/19/2015 10:54:31 PM	08/19/2015 10:54:31 PM		 [Created from Email] 	
+	26725405	Tags	152.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010013683] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 160.153.47.7 within your network!	Open	Low	Not Assigned	08/19/2015 11:34:39 PM	08/19/2015 11:34:39 PM		 [Created from Email] 	
+	26725860	Tags	150.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010015396] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 184.168.58.1 within your network!	Open	Low	Not Assigned	08/20/2015 12:52:58 AM	08/20/2015 12:52:58 AM		 [Created from Email] 	
+	26725871	Tags	150.79	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010015707] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 12:54:48 AM	08/20/2015 12:54:48 AM		 [Created from Email] 	
+	26725886	Tags	150.76	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010015798] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 50.63.33.1 within your network!	Open	Low	Not Assigned	08/20/2015 12:56:31 AM	08/20/2015 12:56:31 AM		 [Created from Email] 	
+	26725896	Tags	150.73	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010015912] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.26.75 within your network!	Open	Low	Not Assigned	08/20/2015 12:58:12 AM	08/20/2015 12:58:12 AM		 [Created from Email] 	
+	26726167	Tags	149.79	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010016626] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 01:55:01 AM	08/20/2015 01:55:01 AM		 [Created from Email] 	
+	26726171	Tags	149.77	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010016681] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 01:55:53 AM	08/20/2015 01:55:53 AM		 [Created from Email] 	
+	26726601	Tags	148.48	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010028355] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/20/2015 03:13:40 AM	08/20/2015 03:13:40 AM		 [Created from Email] 	
+	26726602	Tags	148.48	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010028346] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/20/2015 03:13:40 AM	08/20/2015 03:13:40 AM		 [Created from Email] 	
+	26727481	Tags	147.62	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010031163] Malicious content (CYSC.PHISH.SITE.APPLE-14) hosted on 50.62.160.218 within your network!	Open	Low	Not Assigned	08/20/2015 04:04:41 AM	08/20/2015 04:04:41 AM		 [Created from Email] 	
+	26727543	Tags	147.42	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010031494] Malicious content (CYSC.PHISH.SITE.WESTPAC_COM_AU-1) hosted on 107.180.36.94 within your network!	Open	Low	Not Assigned	08/20/2015 04:16:42 AM	08/20/2015 04:16:42 AM		 [Created from Email] 	
+	26727618	Tags	147.25	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010031832] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 107.180.40.141 within your network!	Open	Low	Not Assigned	08/20/2015 04:27:16 AM	08/20/2015 04:27:16 AM		 [Created from Email] 	
+	26728216	Tags	145.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010036122] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 192.186.245.160 within your network!	Open	Low	Not Assigned	08/20/2015 05:53:09 AM	08/20/2015 05:53:09 AM		 [Created from Email] 	
+	26728578	Tags	145.08	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010038362] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 107.180.41.41 within your network!	Open	Low	Not Assigned	08/20/2015 06:37:17 AM	08/20/2015 06:37:17 AM		 [Created from Email] 	
+	26728877	Tags	144.52	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010040788] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-5) hosted on 184.168.234.1 within your network!	Open	Low	Not Assigned	08/20/2015 07:11:14 AM	08/20/2015 07:11:14 AM		 [Created from Email] 	
+	26728989	Tags	144.30	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010041161] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/20/2015 07:23:59 AM	08/20/2015 07:23:59 AM		 [Created from Email] 	
+	26729037	Tags	144.23	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010041411] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 160.153.54.98 within your network!	Open	Low	Not Assigned	08/20/2015 07:28:19 AM	08/20/2015 07:28:19 AM		 [Created from Email] 	
+	26729039	Tags	144.23	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010041465] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 166.62.28.107 within your network!	Open	Low	Not Assigned	08/20/2015 07:28:20 AM	08/20/2015 07:28:20 AM		 [Created from Email] 	
+	26729050	Tags	144.22	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010041554] Malicious content (CYSC.PHISH.SITE.GENERIC-4) hosted on 50.63.68.1 within your network!	Open	Low	Not Assigned	08/20/2015 07:29:14 AM	08/20/2015 07:29:14 AM		 [Created from Email] 	
+	26729721	Tags	143.10	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010042937] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-9) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/20/2015 08:36:28 AM	08/20/2015 08:36:28 AM		 [Created from Email] 	
+	26730004	Tags	142.64	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010043847] Malicious content (CYSC.SUSPICIOUS.JAVASCRIPT.INSERT-1) hosted on 46.252.196.1 within your network!	Open	Low	Not Assigned	08/20/2015 09:04:03 AM	08/20/2015 09:04:03 AM		 [Created from Email] 	
+	26730356	Tags	142.05	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010046675] Malicious content (CYSC.MALWARE.IFRAME.GEN) hosted on 97.74.144.19 within your network!	Open	Low	Not Assigned	08/20/2015 09:39:12 AM	08/20/2015 09:39:12 AM		 [Created from Email] 	
+	26730482	Tags	141.87	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010047389] Malicious content (CYSC.PHISH.SITE.DROPBOX-1) hosted on 107.180.26.71 within your network!	Open	Low	Not Assigned	08/20/2015 09:50:15 AM	08/20/2015 09:50:15 AM		 [Created from Email] 	
+	26730817	Tags	141.24	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010049136] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/20/2015 10:27:35 AM	08/20/2015 10:27:35 AM		 [Created from Email] 	
+	26730835	Tags	141.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010049216] Malicious content (CYSC.PHISH.SITE.GENERIC-15) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/20/2015 10:30:13 AM	08/20/2015 10:30:13 AM		 [Created from Email] 	
+	26730837	Tags	141.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010049323] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 160.153.52.198 within your network!	Open	Low	Not Assigned	08/20/2015 10:30:13 AM	08/20/2015 10:30:13 AM		 [Created from Email] 	
+	26730909	Tags	141.01	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010049654] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 192.186.216.32 within your network!	Open	Low	Not Assigned	08/20/2015 10:41:22 AM	08/20/2015 10:41:22 AM		 [Created from Email] 	
+	26731111	Tags	140.63	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010049949] Malicious content (CYSC.PHISH.URL.GEN) hosted on 208.109.47.143 within your network!	Open	Low	Not Assigned	08/20/2015 11:04:30 AM	08/20/2015 11:04:30 AM		 [Created from Email] 	
+	26731579	Tags	139.60	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010051945] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 12:06:14 PM	08/20/2015 12:06:14 PM		 [Created from Email] 	
+Mark as Spam
+	
+Bulk Update
+	
+			Page  of 5				
+View 1 - 100 of 
+roup:
+	 
+ID
+	 
+Tags
+	 
+Assign Grp Hours
+	 
+Service
+	 
+Category
+	 
+Email
+	 
+Summary
+	 
+Status
+	 
+Pri
+	 
+Assigned To
+	 
+Created
+	 
+Updated
+	 
+Shopper
+	 
+Src
+	 
+Att
+															
+	26731596	Tags	139.58	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010052131] Malicious content (CYSC.PHISH.URL.LOCAL_LOADER_BASE64-2) hosted on 50.62.160.123 within your network!	Open	Low	Not Assigned	08/20/2015 12:07:56 PM	08/20/2015 12:07:56 PM		 [Created from Email] 	
+	26731631	Tags	139.50	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010052301] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-9) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/20/2015 12:12:14 PM	08/20/2015 12:12:14 PM		 [Created from Email] 	
+	26732179	Tags	138.49	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010056521] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 01:12:47 PM	08/20/2015 01:12:47 PM		 [Created from Email] 	
+	26732186	Tags	138.48	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010056557] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 107.180.21.56 within your network!	Open	Low	Not Assigned	08/20/2015 01:13:40 PM	08/20/2015 01:13:40 PM		 [Created from Email] 	
+	26732474	Tags	137.83	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010057511] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 01:52:52 PM	08/20/2015 01:52:52 PM		 [Created from Email] 	
+	26732933	Tags	136.81	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082010058868] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/20/2015 02:53:55 PM	08/20/2015 02:53:55 PM		 [Created from Email] 	
+	26733507	Tags	135.03	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110002095] Malicious content (CYSC.PHISH.SITE.GMAIL-4) hosted on 160.153.56.38 within your network!	Open	Low	Not Assigned	08/20/2015 04:40:57 PM	08/20/2015 04:40:57 PM		 [Created from Email] 	
+	26733667	Tags	134.61	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110003165] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 160.153.75.229 within your network!	Open	Low	Not Assigned	08/20/2015 05:05:45 PM	08/20/2015 05:05:45 PM		 [Created from Email] 	
+	26733985	Tags	133.03	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110005298] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 50.63.197.208 within your network!	Open	Low	Not Assigned	08/20/2015 06:40:25 PM	08/20/2015 06:40:25 PM		 [Created from Email] 	
+	26734031	Tags	132.89	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110005485] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 72.167.232.201 within your network!	Open	Low	Not Assigned	08/20/2015 06:48:58 PM	08/20/2015 06:48:58 PM		 [Created from Email] 	
+	26734084	Tags	132.63	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110005627] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 72.167.232.201 within your network!	Open	Low	Not Assigned	08/20/2015 07:04:40 PM	08/20/2015 07:04:40 PM		 [Created from Email] 	
+	26734237	Tags	131.81	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110006359] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 72.167.232.201 within your network!	Open	Low	Not Assigned	08/20/2015 07:53:46 PM	08/20/2015 07:53:46 PM		 [Created from Email] 	
+	26734568	Tags	129.83	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110009187] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 184.168.152.4 within your network!	Open	Low	Not Assigned	08/20/2015 09:52:33 PM	08/20/2015 09:52:33 PM		 [Created from Email] 	
+	26735161	Tags	126.95	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110011307] Malicious content (CYSC.PHISH.SITE.GMAIL-4) hosted on 166.62.28.79 within your network!	Open	Low	Not Assigned	08/21/2015 12:45:39 AM	08/21/2015 12:45:39 AM		 [Created from Email] 	
+	26735220	Tags	126.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110011469] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.41.88 within your network!	Open	Low	Not Assigned	08/21/2015 12:58:11 AM	08/21/2015 12:58:11 AM		 [Created from Email] 	
+	26735954	Tags	124.85	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110013556] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.2.208 within your network!	Open	Low	Not Assigned	08/21/2015 02:51:28 AM	08/21/2015 02:51:28 AM		 [Created from Email] 	
+	26735970	Tags	124.78	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110013681] Malicious content (CYSC.PHISH.SITE.GENERIC-15) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/21/2015 02:55:32 AM	08/21/2015 02:55:32 AM		 [Created from Email] 	
+	26735971	Tags	124.78	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110013691] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-11) hosted on 160.153.75.5 within your network!	Open	Low	Not Assigned	08/21/2015 02:55:33 AM	08/21/2015 02:55:33 AM		 [Created from Email] 	
+	26736013	Tags	124.63	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110014484] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.41.69 within your network!	Open	Low	Not Assigned	08/21/2015 03:04:43 AM	08/21/2015 03:04:43 AM		 [Created from Email] 	
+	26736020	Tags	124.60	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110014582] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-9) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/21/2015 03:06:17 AM	08/21/2015 03:06:17 AM		 [Created from Email] 	
+	26736102	Tags	124.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110014635] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 192.186.233.215 within your network!	Open	Low	Not Assigned	08/21/2015 03:07:58 AM	08/21/2015 03:07:58 AM		 [Created from Email] 	
+	26736112	Tags	124.53	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110014724] Malicious content (CYSC.PHISH.SITE.DROPBOX-2) hosted on 107.180.41.44 within your network!	Open	Low	Not Assigned	08/21/2015 03:10:32 AM	08/21/2015 03:10:32 AM		 [Created from Email] 	
+	26736159	Tags	124.38	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015091] Malicious content (CYSC.PHISH.SITE.DHL-7) hosted on 184.168.136.1 within your network!	Open	Low	Not Assigned	08/21/2015 03:19:42 AM	08/21/2015 03:19:42 AM		 [Created from Email] 	
+	26736195	Tags	124.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015429] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-16) hosted on 160.153.59.0 within your network!	Open	Low	Not Assigned	08/21/2015 03:29:37 AM	08/21/2015 03:29:37 AM		 [Created from Email] 	
+	26736203	Tags	124.17	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015483] Malicious content (CYSC.PHISH.SITE.PAYPAL-120) hosted on 192.186.222.226 within your network!	Open	Low	Not Assigned	08/21/2015 03:32:07 AM	08/21/2015 03:32:07 AM		 [Created from Email] 	
+	26736208	Tags	124.16	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015527] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/21/2015 03:32:57 AM	08/21/2015 03:32:57 AM		 [Created from Email] 	
+	26736231	Tags	124.04	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015831] Malicious content (CYSC.PHISH.SITE.DHL-7) hosted on 182.50.150.129 within your network!	Open	Low	Not Assigned	08/21/2015 03:39:50 AM	08/21/2015 03:39:50 AM		 [Created from Email] 	
+	26736232	Tags	124.04	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015849] Malicious content (CYSC.PHISH.REDIRECTOR.GENERIC-2) hosted on 72.167.232.201 within your network!	Open	Low	Not Assigned	08/21/2015 03:39:51 AM	08/21/2015 03:39:51 AM		 [Created from Email] 	
+	26736233	Tags	124.04	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110015858] Malicious content (CYSC.PHISH.REDIRECTOR.HOTMAIL-1) hosted on 72.167.3.1 within your network!	Open	Low	Not Assigned	08/21/2015 03:39:51 AM	08/21/2015 03:39:51 AM		 [Created from Email] 	
+	26736240	Tags	124.00	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110016008] Malicious content (CYSC.PHISH.SITE.SUNTRUST_COM-1) hosted on 208.109.181.123 within your network!	Open	Low	Not Assigned	08/21/2015 03:42:20 AM	08/21/2015 03:42:20 AM		 [Created from Email] 	
+	26736303	Tags	123.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082110016419] Malicious content (CYSC.PHISH.REDIRECTOR.GENERIC-11) hosted on 50.62.160.97 within your network!	Open	Low	Not Assigned	08/21/2015 03:58:06 AM	08/21/2015 03:58:06 AM		 [Created from Email] 	
+	26745312	Tags	98.95	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210000166] Malicious content (CYSC.PHISH.SITE.SUNTRUST_COM-1) hosted on 68.178.254.202 within your network!	Open	Low	Not Assigned	08/22/2015 04:45:16 AM	08/22/2015 04:45:16 AM		 [Created from Email] 	
+	26745371	Tags	98.72	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210000479] Malicious content (CYSC.PHISH.SITE.FAKE_ESCROW.EXPLIZIT) hosted on 188.121.62.42 within your network!	Open	Low	Not Assigned	08/22/2015 04:59:04 AM	08/22/2015 04:59:04 AM		 [Created from Email] 	
+	26745454	Tags	98.54	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210001076] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/22/2015 05:10:07 AM	08/22/2015 05:10:07 AM		 [Created from Email] 	
+	26745459	Tags	98.52	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210001156] Malicious content (CYSC.PHISH.SITE.GOV_UK-1) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/22/2015 05:11:01 AM	08/22/2015 05:11:01 AM		 [Created from Email] 	
+	26745474	Tags	98.47	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210001423] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 184.168.221.38 within your network!	Open	Low	Not Assigned	08/22/2015 05:14:32 AM	08/22/2015 05:14:32 AM		 [Created from Email] 	
+	26745479	Tags	98.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210001531] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.34.193 within your network!	Open	Low	Not Assigned	08/22/2015 05:15:27 AM	08/22/2015 05:15:27 AM		 [Created from Email] 	
+	26745481	Tags	98.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210001601] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 50.62.100.1 within your network!	Open	Low	Not Assigned	08/22/2015 05:15:27 AM	08/22/2015 05:15:27 AM		 [Created from Email] 	
+	26745491	Tags	98.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210002182] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 50.63.101.130 within your network!	Open	Low	Not Assigned	08/22/2015 05:16:23 AM	08/22/2015 05:16:23 AM		 [Created from Email] 	
+	26745492	Tags	98.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210002422] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/22/2015 05:16:24 AM	08/22/2015 05:16:24 AM		 [Created from Email] 	
+	26745493	Tags	98.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210002431] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.21.21 within your network!	Open	Low	Not Assigned	08/22/2015 05:16:24 AM	08/22/2015 05:16:24 AM		 [Created from Email] 	
+	26745494	Tags	98.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210002502] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/22/2015 05:16:24 AM	08/22/2015 05:16:24 AM		 [Created from Email] 	
+	26745525	Tags	98.36	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210003501] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 192.186.242.194 within your network!	Open	Low	Not Assigned	08/22/2015 05:20:52 AM	08/22/2015 05:20:52 AM		 [Created from Email] 	
+	26745574	Tags	98.17	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210003994] Malicious content (CYSC.PHISH.SITE.IMPOTS_GOUV_FR-1) hosted on 192.186.196.163 within your network!	Open	Low	Not Assigned	08/22/2015 05:32:12 AM	08/22/2015 05:32:12 AM		 [Created from Email] 	
+	26745586	Tags	98.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210004144] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 160.153.16.32 within your network!	Open	Low	Not Assigned	08/22/2015 05:34:54 AM	08/22/2015 05:34:54 AM		 [Created from Email] 	
+	26745595	Tags	98.11	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210004546] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 192.186.251.224 within your network!	Open	Low	Not Assigned	08/22/2015 05:35:51 AM	08/22/2015 05:35:51 AM		 [Created from Email] 	
+	26745596	Tags	98.11	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210004573] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 184.168.227.169 within your network!	Open	Low	Not Assigned	08/22/2015 05:35:51 AM	08/22/2015 05:35:51 AM		 [Created from Email] 	
+	26745597	Tags	98.11	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210004662] Malicious content (CYSC.PHISH.SITE.APPLE-25) hosted on 166.62.40.178 within your network!	Open	Low	Not Assigned	08/22/2015 05:35:51 AM	08/22/2015 05:35:51 AM		 [Created from Email] 	
+	26745603	Tags	98.09	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210005045] Malicious content (CYSC.PHISH.SITE.SUNTRUST_COM-1) hosted on 68.178.254.202 within your network!	Open	Low	Not Assigned	08/22/2015 05:36:49 AM	08/22/2015 05:36:49 AM		 [Created from Email] 	
+	26745618	Tags	98.05	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210005296] Malicious content (CYSC.PHISH.SITE.GENERIC-15) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/22/2015 05:39:32 AM	08/22/2015 05:39:32 AM		 [Created from Email] 	
+	26745651	Tags	97.96	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210005536] Malicious content (CYSC.PHISH.SITE.LCL_FR-2) hosted on 160.153.33.198 within your network!	Open	Low	Not Assigned	08/22/2015 05:44:36 AM	08/22/2015 05:44:36 AM		 [Created from Email] 	
+	26745659	Tags	97.93	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210005796] Malicious content (CYSC.PHISH.SITE.ITAU-5) hosted on 203.124.113.1 within your network!	Open	Low	Not Assigned	08/22/2015 05:46:22 AM	08/22/2015 05:46:22 AM		 [Created from Email] 	
+	26745662	Tags	97.93	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210005911] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 208.109.168.9 within your network!	Open	Low	Not Assigned	08/22/2015 05:46:23 AM	08/22/2015 05:46:23 AM		 [Created from Email] 	
+	26745758	Tags	97.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210007767] Malicious content (CYSC.MALWARE.EXPLOIT.DRIVEBY-3) hosted on 173.201.146.128 within your network!	Open	Low	Not Assigned	08/22/2015 06:12:00 AM	08/22/2015 06:12:00 AM		 [Created from Email] 	
+	26746030	Tags	96.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210009765] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 184.168.177.1 within your network!	Open	Low	Not Assigned	08/22/2015 07:08:03 AM	08/22/2015 07:08:03 AM		 [Created from Email] 	
+	26746161	Tags	96.10	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210010521] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 146.255.47.1 within your network!	Open	Low	Not Assigned	08/22/2015 07:36:40 AM	08/22/2015 07:36:40 AM		 [Created from Email] 	
+	26746405	Tags	95.29	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210011387] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 184.168.185.1 within your network!	Open	Low	Not Assigned	08/22/2015 08:25:07 AM	08/22/2015 08:25:07 AM		 [Created from Email] 	
+	26746487	Tags	94.97	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210011725] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 97.74.144.149 within your network!	Open	Low	Not Assigned	08/22/2015 08:44:25 AM	08/22/2015 08:44:25 AM		 [Created from Email] 	
+	26746571	Tags	94.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210012091] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/22/2015 08:58:05 AM	08/22/2015 08:58:05 AM		 [Created from Email] 	
+	26746572	Tags	94.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210012181] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 23.229.225.161 within your network!	Open	Low	Not Assigned	08/22/2015 08:58:06 AM	08/22/2015 08:58:06 AM		 [Created from Email] 	
+	26746806	Tags	93.99	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210013045] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 166.62.28.106 within your network!	Open	Low	Not Assigned	08/22/2015 09:43:21 AM	08/22/2015 09:43:21 AM		 [Created from Email] 	
+	26746884	Tags	93.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210013349] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/22/2015 09:54:26 AM	08/22/2015 09:54:26 AM		 [Created from Email] 	
+	26746971	Tags	93.58	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210014071] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 97.74.144.150 within your network!	Open	Low	Not Assigned	08/22/2015 10:07:42 AM	08/22/2015 10:07:42 AM		 [Created from Email] 	
+	26746978	Tags	93.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210014268] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 182.50.147.1 within your network!	Open	Low	Not Assigned	08/22/2015 10:08:31 AM	08/22/2015 10:08:31 AM		 [Created from Email] 	
+	26747088	Tags	93.19	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210014759] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.190.136 within your network!	Open	Low	Not Assigned	08/22/2015 10:31:10 AM	08/22/2015 10:31:10 AM		 [Created from Email] 	
+	26747094	Tags	93.17	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210014777] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/22/2015 10:31:59 AM	08/22/2015 10:31:59 AM		 [Created from Email] 	
+	26747231	Tags	92.55	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210015794] Malicious content (CYSC.PHISH.SITE.DROPBOX-4) hosted on 182.50.148.1 within your network!	Open	Low	Not Assigned	08/22/2015 11:09:41 AM	08/22/2015 11:09:41 AM		 [Created from Email] 	
+	26747241	Tags	92.55	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210016033] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-9) hosted on 50.63.76.1 within your network!	Open	Low	Not Assigned	08/22/2015 11:09:43 AM	08/22/2015 11:09:43 AM		 [Created from Email] 	
+	26747242	Tags	92.55	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210016051] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/22/2015 11:09:43 AM	08/22/2015 11:09:43 AM		 [Created from Email] 	
+	26747244	Tags	92.53	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210016113] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/22/2015 11:10:39 AM	08/22/2015 11:10:39 AM		 [Created from Email] 	
+	26747245	Tags	92.53	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210016131] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/22/2015 11:10:39 AM	08/22/2015 11:10:39 AM		 [Created from Email] 	
+	26747390	Tags	91.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210017201] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 192.186.198.129 within your network!	Open	Low	Not Assigned	08/22/2015 11:54:44 AM	08/22/2015 11:54:44 AM		 [Created from Email] 	
+	26747443	Tags	91.35	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210018022] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.2.218 within your network!	Open	Low	Not Assigned	08/22/2015 12:21:28 PM	08/22/2015 12:21:28 PM		 [Created from Email] 	
+	26747921	Tags	88.94	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082210020457] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/22/2015 02:46:06 PM	08/22/2015 02:46:06 PM		 [Created from Email] 	
+	26753572	Tags	52.85	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410000822] Malicious content (CYSC.MALWARE.TROJAN.GEN) hosted on 184.168.192.126 within your network!	Open	Low	Not Assigned	08/24/2015 02:51:43 AM	08/24/2015 02:51:43 AM		 [Created from Email] 	
+	26753590	Tags	52.77	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410001063] Malicious content (CYSC.PHISH.SITE.GENERIC-4) hosted on 23.229.129.131 within your network!	Open	Low	Not Assigned	08/24/2015 02:56:07 AM	08/24/2015 02:56:07 AM		 [Created from Email] 	
+	26753601	Tags	52.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410001447] Malicious content (CYSC.PHISH.SITE.YAHOO-13) hosted on 107.180.27.138 within your network!	Open	Low	Not Assigned	08/24/2015 02:57:57 AM	08/24/2015 02:57:57 AM		 [Created from Email] 	
+	26753634	Tags	52.60	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410001831] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.3.124 within your network!	Open	Low	Not Assigned	08/24/2015 03:06:29 AM	08/24/2015 03:06:29 AM		 [Created from Email] 	
+	26753645	Tags	52.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410002133] Malicious content (CYSC.PHISH.SITE.EMAIL_GENERIC-1) hosted on 23.229.214.5 within your network!	Open	Low	Not Assigned	08/24/2015 03:08:10 AM	08/24/2015 03:08:10 AM		 [Created from Email] 	
+	26753665	Tags	52.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410002204] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-5) hosted on 50.63.44.1 within your network!	Open	Low	Not Assigned	08/24/2015 03:11:35 AM	08/24/2015 03:11:35 AM		 [Created from Email] 	
+	26753800	Tags	51.97	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410003703] Malicious content (CYSC.MALWARE.EXPLOIT.DRIVEBY-3) hosted on 97.74.215.114 within your network!	Open	Low	Not Assigned	08/24/2015 03:44:04 AM	08/24/2015 03:44:04 AM		 [Created from Email] 	
+	26753813	Tags	51.94	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410003927] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 23.229.192.1 within your network!	Open	Low	Not Assigned	08/24/2015 03:45:52 AM	08/24/2015 03:45:52 AM		 [Created from Email] 	
+	26753823	Tags	51.91	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410004015] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 107.180.41.46 within your network!	Open	Low	Not Assigned	08/24/2015 03:47:41 AM	08/24/2015 03:47:41 AM		 [Created from Email] 	
+	26753838	Tags	51.84	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410004186] Malicious content (CYSC.PHISH.SITE.GOV_UK-1) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/24/2015 03:52:01 AM	08/24/2015 03:52:01 AM		 [Created from Email] 	
+	26753870	Tags	51.73	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410004597] Malicious content (CYSC.PHISH.SITE.FACEBOOK-11) hosted on 23.229.238.226 within your network!	Open	Low	Not Assigned	08/24/2015 03:58:48 AM	08/24/2015 03:58:48 AM		 [Created from Email] 	
+	26753894	Tags	51.66	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410004801] Malicious content (CYSC.PHISH.SITE.GOV_UK-1) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/24/2015 04:03:07 AM	08/24/2015 04:03:07 AM		 [Created from Email] 	
+	26753921	Tags	51.58	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410005112] Malicious content (CYSC.DEFACEMENT.SITE.GEN-2) hosted on 184.168.193.217 within your network!	Open	Low	Not Assigned	08/24/2015 04:07:35 AM	08/24/2015 04:07:35 AM		 [Created from Email] 	
+	26753967	Tags	51.41	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410005471] Malicious content (CYSC.PHISH.LAND.CIELO-2) hosted on 107.180.41.50 within your network!	Open	Low	Not Assigned	08/24/2015 04:17:49 AM	08/24/2015 04:17:49 AM		 [Created from Email] 	
+	26753973	Tags	51.38	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410005541] Malicious content (CYSC.PHISH.SITE.GENERIC-2) hosted on 23.229.160.129 within your network!	Open	Low	Not Assigned	08/24/2015 04:19:32 AM	08/24/2015 04:19:32 AM		 [Created from Email] 	
+	26754098	Tags	51.03	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410006166] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 23.229.227.226 within your network!	Open	Low	Not Assigned	08/24/2015 04:40:35 AM	08/24/2015 04:40:35 AM		 [Created from Email] 	
+	26754230	Tags	50.61	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410006657] Malicious content (CYSC.PHISH.SITE.PAYPAL-120) hosted on 192.186.222.226 within your network!	Open	Low	Not Assigned	08/24/2015 05:06:05 AM	08/24/2015 05:06:05 AM		 [Created from Email] 	
+	26754427	Tags	49.97	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410007469] Malicious content (CYSC.PHISH.SITE.OUTLOOK-6) hosted on 107.180.41.38 within your network!	Open	Low	Not Assigned	08/24/2015 05:44:18 AM	08/24/2015 05:44:18 AM		 [Created from Email] 	
+	26754581	Tags	49.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410007905] Malicious content (CYSC.SUSPICIOUS.JAVASCRIPT.INSERT-1) hosted on 173.201.141.1 within your network!	Open	Low	Not Assigned	08/24/2015 06:06:52 AM	08/24/2015 06:06:52 AM		 [Created from Email] 	
+	26754719	Tags	49.25	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410008521] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.2.218 within your network!	Open	Low	Not Assigned	08/24/2015 06:27:44 AM	08/24/2015 06:27:44 AM		 [Created from Email] 	
+	26755150	Tags	48.27	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410009298] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/24/2015 07:26:25 AM	08/24/2015 07:26:25 AM		 [Created from Email] 	
+	26755283	Tags	48.08	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410010115] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 07:37:50 AM	08/24/2015 07:37:50 AM		 [Created from Email] 	
+	26755310	Tags	48.03	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410010259] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 07:40:29 AM	08/24/2015 07:40:29 AM		 [Created from Email] 	
+	26755311	Tags	48.03	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410010277] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 07:40:29 AM	08/24/2015 07:40:29 AM		 [Created from Email] 	
+	26755586	Tags	47.48	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410010964] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 107.180.41.126 within your network!	Open	Low	Not Assigned	08/24/2015 08:13:41 AM	08/24/2015 08:13:41 AM		 [Created from Email] 	
+	26755805	Tags	46.95	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410011571] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 08:45:44 AM	08/24/2015 08:45:44 AM		 [Created from Email] 	
+Mark as Spam
+	
+Bulk Update
+	
+			Page  of 5				
+View 101 - 200 o
+Filter:
+Group:
+	 
+ID
+	 
+Tags
+	 
+Assign Grp Hours
+	 
+Service
+	 
+Category
+	 
+Email
+	 
+Summary
+	 
+Status
+	 
+Pri
+	 
+Assigned To
+	 
+Created
+	 
+Updated
+	 
+Shopper
+	 
+Src
+	 
+Att
+															
+	26756972	Tags	46.64	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410011883] Malicious content (CYSC.DEFACEMENT.SITE.GEN-2) hosted on 192.186.225.168 within your network!	Open	Low	Not Assigned	08/24/2015 09:04:38 AM	08/24/2015 09:04:38 AM		 [Created from Email] 	
+	26756994	Tags	46.61	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410011945] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 50.62.244.1 within your network!	Open	Low	Not Assigned	08/24/2015 09:06:20 AM	08/24/2015 09:06:20 AM		 [Created from Email] 	
+	26757001	Tags	46.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012015] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 166.62.34.240 within your network!	Open	Low	Not Assigned	08/24/2015 09:07:13 AM	08/24/2015 09:07:13 AM		 [Created from Email] 	
+	26757029	Tags	46.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012293] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 192.186.193.228 within your network!	Open	Low	Not Assigned	08/24/2015 09:08:59 AM	08/24/2015 09:08:59 AM		 [Created from Email] 	
+	26757030	Tags	46.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012301] Malicious content (CYSC.PHISH.SITE.WELLSFARGO-7) hosted on 160.153.92.218 within your network!	Open	Low	Not Assigned	08/24/2015 09:08:59 AM	08/24/2015 09:08:59 AM		 [Created from Email] 	
+	26757031	Tags	46.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012284] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 09:08:59 AM	08/24/2015 09:08:59 AM		 [Created from Email] 	
+	26757032	Tags	46.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012319] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 50.62.228.1 within your network!	Open	Low	Not Assigned	08/24/2015 09:08:59 AM	08/24/2015 09:08:59 AM		 [Created from Email] 	
+	26757034	Tags	46.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012382] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 107.180.26.72 within your network!	Open	Low	Not Assigned	08/24/2015 09:08:59 AM	08/24/2015 09:08:59 AM		 [Created from Email] 	
+	26757050	Tags	46.55	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012417] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 166.62.28.113 within your network!	Open	Low	Not Assigned	08/24/2015 09:09:48 AM	08/24/2015 09:09:48 AM		 [Created from Email] 	
+	26757237	Tags	46.19	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012677] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 160.153.35.1 within your network!	Open	Low	Not Assigned	08/24/2015 09:31:21 AM	08/24/2015 09:31:21 AM		 [Created from Email] 	
+	26757279	Tags	46.12	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410012873] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 107.180.41.85 within your network!	Open	Low	Not Assigned	08/24/2015 09:35:38 AM	08/24/2015 09:35:38 AM		 [Created from Email] 	
+	26757429	Tags	45.90	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410014264] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 107.180.40.62 within your network!	Open	Low	Not Assigned	08/24/2015 09:49:07 AM	08/24/2015 09:49:07 AM		 [Created from Email] 	
+	26757433	Tags	45.90	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410014461] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-9) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/24/2015 09:49:08 AM	08/24/2015 09:49:08 AM		 [Created from Email] 	
+	26757454	Tags	45.87	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410014979] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 09:50:55 AM	08/24/2015 09:50:55 AM		 [Created from Email] 	
+	26757540	Tags	45.72	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410015209] Malicious content (CYSC.PHISH.SITE.POSTE_IT-8) hosted on 23.229.182.201 within your network!	Open	Low	Not Assigned	08/24/2015 09:59:43 AM	08/24/2015 09:59:43 AM		 [Created from Email] 	
+	26757567	Tags	45.67	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410015245] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 103.1.175.1 within your network!	Open	Low	Not Assigned	08/24/2015 10:02:23 AM	08/24/2015 10:02:23 AM		 [Created from Email] 	
+	26757879	Tags	45.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410015754] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 184.168.221.69 within your network!	Open	Low	Not Assigned	08/24/2015 10:35:00 AM	08/24/2015 10:35:00 AM		 [Created from Email] 	
+	26757880	Tags	45.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410015781] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 184.168.151.26 within your network!	Open	Low	Not Assigned	08/24/2015 10:35:00 AM	08/24/2015 10:35:00 AM		 [Created from Email] 	
+	26757974	Tags	44.96	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410015852] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 146.255.47.210 within your network!	Open	Low	Not Assigned	08/24/2015 10:45:29 AM	08/24/2015 10:45:29 AM		 [Created from Email] 	
+	26758087	Tags	44.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410016101] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 146.255.47.210 within your network!	Open	Low	Not Assigned	08/24/2015 10:55:10 AM	08/24/2015 10:55:10 AM		 [Created from Email] 	
+	26758234	Tags	44.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410016299] Malicious content (CYSC.PHISH.SITE.LCL_FR-1) hosted on 160.153.16.39 within your network!	Open	Low	Not Assigned	08/24/2015 11:08:24 AM	08/24/2015 11:08:24 AM		 [Created from Email] 	
+	26758236	Tags	44.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410016324] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.195.227 within your network!	Open	Low	Not Assigned	08/24/2015 11:08:24 AM	08/24/2015 11:08:24 AM		 [Created from Email] 	
+	26758238	Tags	44.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410016351] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 166.62.28.99 within your network!	Open	Low	Not Assigned	08/24/2015 11:09:13 AM	08/24/2015 11:09:13 AM		 [Created from Email] 	
+	26758501	Tags	43.92	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410017574] Malicious content (CYSC.PHISH.SITE.APPLE-14) hosted on 23.229.161.202 within your network!	Open	Low	Not Assigned	08/24/2015 11:47:39 AM	08/24/2015 11:47:39 AM		 [Created from Email] 	
+	26758870	Tags	43.07	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410019803] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 166.62.34.240 within your network!	Open	Low	Not Assigned	08/24/2015 12:38:51 PM	08/24/2015 12:38:51 PM		 [Created from Email] 	
+	26759190	Tags	42.36	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410021489] Malicious content (CYSC.PHISH.SITE.FIRSTBANK_NG-1) hosted on 23.229.139.193 within your network!	Open	Low	Not Assigned	08/24/2015 01:21:12 PM	08/24/2015 01:21:12 PM		 [Created from Email] 	
+	26759265	Tags	42.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410021685] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 50.63.202.26 within your network!	Open	Low	Not Assigned	08/24/2015 01:31:03 PM	08/24/2015 01:31:03 PM		 [Created from Email] 	
+	26759605	Tags	41.33	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410023638] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 192.169.231.222 within your network!	Open	Low	Not Assigned	08/24/2015 02:23:21 PM	08/24/2015 02:23:21 PM		 [Created from Email] 	
+	26759677	Tags	41.15	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082410024075] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 184.168.221.12 within your network!	Open	Low	Not Assigned	08/24/2015 02:33:40 PM	08/24/2015 02:33:40 PM		 [Created from Email] 	
+	26759955	Tags	40.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510000384] Malicious content (CYSC.PHISH.SITE.PAYPAL-30) hosted on 166.62.28.93 within your network!	Open	Low	Not Assigned	08/24/2015 03:15:43 PM	08/24/2015 03:15:43 PM		 [Created from Email] 	
+	26759956	Tags	40.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510000401] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 192.186.228.71 within your network!	Open	Low	Not Assigned	08/24/2015 03:15:43 PM	08/24/2015 03:15:43 PM		 [Created from Email] 	
+	26760003	Tags	40.31	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510000722] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 23.229.149.38 within your network!	Open	Low	Not Assigned	08/24/2015 03:24:11 PM	08/24/2015 03:24:11 PM		 [Created from Email] 	
+	26760071	Tags	40.14	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510001187] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 50.63.202.5 within your network!	Open	Low	Not Assigned	08/24/2015 03:34:28 PM	08/24/2015 03:34:28 PM		 [Created from Email] 	
+	26760327	Tags	39.78	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510001909] Malicious content (CYSC.PHISH.SITE.GENERIC-15) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/24/2015 03:55:46 PM	08/24/2015 03:55:46 PM		 [Created from Email] 	
+	26760329	Tags	39.78	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510001963] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 23.229.192.135 within your network!	Open	Low	Not Assigned	08/24/2015 03:55:46 PM	08/24/2015 03:55:46 PM		 [Created from Email] 	
+	26760422	Tags	39.55	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510003649] Malicious content (CYSC.PHISH.SITE.EMAIL_GENERIC-2) hosted on 166.62.34.240 within your network!	Open	Low	Not Assigned	08/24/2015 04:09:58 PM	08/24/2015 04:09:58 PM		 [Created from Email] 	
+	26760523	Tags	39.18	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510004451] Malicious content (CYSC.PHISH.SITE.DHL-7) hosted on 198.12.149.58 within your network!	Open	Low	Not Assigned	08/24/2015 04:31:57 PM	08/24/2015 04:31:57 PM		 [Created from Email] 	
+	26760539	Tags	39.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510004621] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 50.62.160.242 within your network!	Open	Low	Not Assigned	08/24/2015 04:35:15 PM	08/24/2015 04:35:15 PM		 [Created from Email] 	
+	26760640	Tags	38.91	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510004817] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 107.180.41.92 within your network!	Open	Low	Not Assigned	08/24/2015 04:48:30 PM	08/24/2015 04:48:30 PM		 [Created from Email] 	
+	26761050	Tags	36.88	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510007421] Malicious content (CYSC.PHISH.SITE.TRADEKEY_COM-1) hosted on 50.63.190.174 within your network!	Open	Low	Not Assigned	08/24/2015 06:49:59 PM	08/24/2015 06:49:59 PM		 [Created from Email] 	
+	26761054	Tags	36.88	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510007501] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 107.180.24.237 within your network!	Open	Low	Not Assigned	08/24/2015 06:50:00 PM	08/24/2015 06:50:00 PM		 [Created from Email] 	
+	26761101	Tags	36.61	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510007681] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 160.153.16.41 within your network!	Open	Low	Not Assigned	08/24/2015 07:06:24 PM	08/24/2015 07:06:24 PM		 [Created from Email] 	
+	26761148	Tags	36.39	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510007896] Malicious content (CYSC.PHISH.SITE.FAKE_ESCROW.EXPLIZIT) hosted on 23.229.221.193 within your network!	Open	Low	Not Assigned	08/24/2015 07:19:40 PM	08/24/2015 07:19:40 PM		 [Created from Email] 	
+	26761292	Tags	35.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510008564] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 50.63.78.1 within your network!	Open	Low	Not Assigned	08/24/2015 08:08:23 PM	08/24/2015 08:08:23 PM		 [Created from Email] 	
+	26761322	Tags	35.47	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510008644] Malicious content (CYSC.MALWARE.TROJAN.BLACKHOLE_AUTO-2) hosted on 97.74.144.142 within your network!	Open	Low	Not Assigned	08/24/2015 08:14:32 PM	08/24/2015 08:14:32 PM		 [Created from Email] 	
+	26761435	Tags	34.81	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510009134] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 104.238.72.200 within your network!	Open	Low	Not Assigned	08/24/2015 08:54:00 PM	08/24/2015 08:54:00 PM		 [Created from Email] 	
+	26761583	Tags	33.89	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510010186] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-8) hosted on 107.180.41.70 within your network!	Open	Low	Not Assigned	08/24/2015 09:49:46 PM	08/24/2015 09:49:46 PM		 [Created from Email] 	
+	26761744	Tags	33.37	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510010641] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 107.180.2.18 within your network!	Open	Low	Not Assigned	08/24/2015 10:20:45 PM	08/24/2015 10:20:45 PM		 [Created from Email] 	
+	26761747	Tags	33.34	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510010721] Malicious content (CYSC.PHISH.SITE.OUTLOOK-6) hosted on 192.186.255.38 within your network!	Open	Low	Not Assigned	08/24/2015 10:22:21 PM	08/24/2015 10:22:21 PM		 [Created from Email] 	
+	26761872	Tags	32.60	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082510011211] Malicious content (CYSC.PHISH.SITE.DROPBOX-2) hosted on 107.180.41.87 within your network!	Open	Low	Not Assigned	08/24/2015 11:06:47 PM	08/24/2015 11:06:47 PM		 [Created from Email] 	
+	26770061	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002541] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 188.121.59.128 within your network!	Open	Low	Not Assigned	08/26/2015 12:29:59 AM	08/26/2015 12:29:59 AM		 [Created from Email] 	
+	26770062	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002522] Malicious content (CYSC.PHISH.SITE.BANKOFAMERICA-8) hosted on 160.153.92.218 within your network!	Open	Low	Not Assigned	08/26/2015 12:29:59 AM	08/26/2015 12:29:59 AM		 [Created from Email] 	
+	26770063	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002602] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.41.51 within your network!	Open	Low	Not Assigned	08/26/2015 12:29:59 AM	08/26/2015 12:29:59 AM		 [Created from Email] 	
+	26770064	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002577] Malicious content (CYSC.PHISH.SITE.GENERIC-13) hosted on 107.180.2.149 within your network!	Open	Low	Not Assigned	08/26/2015 12:29:59 AM	08/26/2015 12:29:59 AM		 [Created from Email] 	
+	26770065	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002675] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.41.51 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:00 AM	08/26/2015 12:30:00 AM		 [Created from Email] 	
+	26770066	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002648] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-8) hosted on 107.180.41.70 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:00 AM	08/26/2015 12:30:00 AM		 [Created from Email] 	
+	26770067	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002728] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 107.180.41.51 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:00 AM	08/26/2015 12:30:00 AM		 [Created from Email] 	
+	26770068	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002853] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-9) hosted on 107.180.35.114 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:01 AM	08/26/2015 12:30:01 AM		 [Created from Email] 	
+	26770069	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002782] Malicious content (CYSC.PHISH.SITE.SUNTRUST_COM-1) hosted on 184.168.192.49 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:01 AM	08/26/2015 12:30:01 AM		 [Created from Email] 	
+	26770070	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003012] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 166.62.28.82 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:01 AM	08/26/2015 12:30:01 AM		 [Created from Email] 	
+	26770071	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610002988] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:01 AM	08/26/2015 12:30:01 AM		 [Created from Email] 	
+	26770072	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003291] Malicious content (CYSC.PHISH.SITE.DROPBOX-2) hosted on 107.180.41.94 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:02 AM	08/26/2015 12:30:02 AM		 [Created from Email] 	
+	26770073	Tags	7.21	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003371] Malicious content (CYSC.PHISH.SITE.DROPBOX-2) hosted on 107.180.41.94 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:02 AM	08/26/2015 12:30:02 AM		 [Created from Email] 	
+	26770080	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003487] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 50.63.202.38 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770081	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003531] Malicious content (CYSC.PHISH.SITE.BANKOFAMERICA-12) hosted on 97.74.144.153 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770082	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003478] Malicious content (CYSC.PHISH.SITE.GENERIC_AUTO) hosted on 50.63.202.38 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770083	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003611] Malicious content (CYSC.PHISH.REDIRECTOR.HOTMAIL-1) hosted on 23.229.192.135 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770084	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003709] Malicious content (CYSC.PHISH.REDIRECTOR.PAYPAL-25) hosted on 97.74.215.196 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770085	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003763] Malicious content (CYSC.PHISH.SITE.GENERIC-13) hosted on 107.180.41.126 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770086	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003745] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 50.63.78.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:54 AM	08/26/2015 12:30:54 AM		 [Created from Email] 	
+	26770087	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003807] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-8) hosted on 107.180.41.70 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:55 AM	08/26/2015 12:30:55 AM		 [Created from Email] 	
+	26770088	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003852] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:55 AM	08/26/2015 12:30:55 AM		 [Created from Email] 	
+	26770089	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610003932] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:55 AM	08/26/2015 12:30:55 AM		 [Created from Email] 	
+	26770090	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004093] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:56 AM	08/26/2015 12:30:56 AM		 [Created from Email] 	
+	26770091	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004191] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 160.153.16.41 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:56 AM	08/26/2015 12:30:56 AM		 [Created from Email] 	
+	26770092	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004511] Malicious content (CYSC.PHISH.SITE.CIBCFCIB-1) hosted on 188.121.59.128 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:56 AM	08/26/2015 12:30:56 AM		 [Created from Email] 	
+	26770093	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004584] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:56 AM	08/26/2015 12:30:56 AM		 [Created from Email] 	
+	26770094	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004628] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:57 AM	08/26/2015 12:30:57 AM		 [Created from Email] 	
+	26770095	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004593] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:57 AM	08/26/2015 12:30:57 AM		 [Created from Email] 	
+	26770096	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004673] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:57 AM	08/26/2015 12:30:57 AM		 [Created from Email] 	
+	26770097	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004726] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:58 AM	08/26/2015 12:30:58 AM		 [Created from Email] 	
+	26770098	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004682] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 192.186.247.0 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:58 AM	08/26/2015 12:30:58 AM		 [Created from Email] 	
+	26770099	Tags	7.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004691] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 12:30:58 AM	08/26/2015 12:30:58 AM		 [Created from Email] 	
+	26770111	Tags	7.17	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610004959] Malicious content (CYSC.MALWARE.TROJAN.BLACKHOLE_AUTO-2) hosted on 72.167.213.24 within your network!	Open	Low	Not Assigned	08/26/2015 12:32:42 AM	08/26/2015 12:32:42 AM		 [Created from Email] 	
+	26770123	Tags	7.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610005681] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 12:35:15 AM	08/26/2015 12:35:15 AM		 [Created from Email] 	
+	26770124	Tags	7.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610005743] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 12:35:15 AM	08/26/2015 12:35:15 AM		 [Created from Email] 	
+	26770125	Tags	7.13	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610005771] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 12:35:16 AM	08/26/2015 12:35:16 AM		 [Created from Email] 	
+	26770128	Tags	7.11	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610005912] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 107.180.21.56 within your network!	Open	Low	Not Assigned	08/26/2015 12:36:09 AM	08/26/2015 12:36:09 AM		 [Created from Email] 	
+	26770183	Tags	6.86	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610006831] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 184.168.152.4 within your network!	Open	Low	Not Assigned	08/26/2015 12:51:15 AM	08/26/2015 12:51:15 AM		 [Created from Email] 	
+	26770195	Tags	6.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610007152] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 107.180.41.83 within your network!	Open	Low	Not Assigned	08/26/2015 12:54:37 AM	08/26/2015 12:54:37 AM		 [Created from Email] 	
+	26770196	Tags	6.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610007161] Malicious content (CYSC.PHISH.SITE.GENERIC-15) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/26/2015 12:54:38 AM	08/26/2015 12:54:38 AM		 [Created from Email] 	
+	26770213	Tags	6.75	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610007349] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 184.168.152.4 within your network!	Open	Low	Not Assigned	08/26/2015 12:57:58 AM	08/26/2015 12:57:58 AM		 [Created from Email] 	
+	26770229	Tags	6.69	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610007625] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 97.74.144.124 within your network!	Open	Low	Not Assigned	08/26/2015 01:01:22 AM	08/26/2015 01:01:22 AM		 [Created from Email] 	
+	26770234	Tags	6.66	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610007796] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 97.74.144.124 within your network!	Open	Low	Not Assigned	08/26/2015 01:03:04 AM	08/26/2015 01:03:04 AM		 [Created from Email] 	
+	26770242	Tags	6.61	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610007938] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 23.229.192.135 within your network!	Open	Low	Not Assigned	08/26/2015 01:06:33 AM	08/26/2015 01:06:33 AM		 [Created from Email] 	
+	26770260	Tags	6.49	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610008437] Malicious content (CYSC.MALWARE.URL.BLACKHATSEO-5) hosted on 184.168.147.45 within your network!	Open	Low	Not Assigned	08/26/2015 01:13:27 AM	08/26/2015 01:13:27 AM		 [Created from Email] 	
+	26770267	Tags	6.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610008688] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 173.201.0.1 within your network!	Open	Low	Not Assigned	08/26/2015 01:15:59 AM	08/26/2015 01:15:59 AM		 [Created from Email] 	
+	26770317	Tags	6.24	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610009623] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 166.62.28.79 within your network!	Open	Low	Not Assigned	08/26/2015 01:28:27 AM	08/26/2015 01:28:27 AM		 [Created from Email] 	
+	26770328	Tags	6.19	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610009838] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 208.109.181.92 within your network!	Open	Low	Not Assigned	08/26/2015 01:31:40 AM	08/26/2015 01:31:40 AM		 [Created from Email] 	
+	26770390	Tags	5.87	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010442] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 72.167.131.52 within your network!	Open	Low	Not Assigned	08/26/2015 01:50:57 AM	08/26/2015 01:50:57 AM		 [Created from Email] 	
+Mark as Spam
+	
+Bulk Update
+	
+			Page  of 5				
+View 201 - 300 of 
+up:
+	 
+ID
+	 
+Tags
+	 
+Assign Grp Hours
+	 
+Service
+	 
+Category
+	 
+Email
+	 
+Summary
+	 
+Status
+	 
+Pri
+	 
+Assigned To
+	 
+Created
+	 
+Updated
+	 
+Shopper
+	 
+Src
+	 
+Att
+															
+	26770396	Tags	5.84	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010513] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 107.180.21.56 within your network!	Open	Low	Not Assigned	08/26/2015 01:52:32 AM	08/26/2015 01:52:32 AM		 [Created from Email] 	
+	26770398	Tags	5.83	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010728] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 01:53:19 AM	08/26/2015 01:53:19 AM		 [Created from Email] 	
+	26770402	Tags	5.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010755] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 01:54:06 AM	08/26/2015 01:54:06 AM		 [Created from Email] 	
+	26770403	Tags	5.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010773] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 01:54:06 AM	08/26/2015 01:54:06 AM		 [Created from Email] 	
+	26770404	Tags	5.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010782] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 01:54:06 AM	08/26/2015 01:54:06 AM		 [Created from Email] 	
+	26770408	Tags	5.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010808] Malicious content (CYSC.PHISH.REDIRECTOR.GENERIC-27) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 01:54:52 AM	08/26/2015 01:54:52 AM		 [Created from Email] 	
+	26770409	Tags	5.80	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610010826] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 01:54:52 AM	08/26/2015 01:54:52 AM		 [Created from Email] 	
+	26770449	Tags	5.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610011512] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 02:07:37 AM	08/26/2015 02:07:37 AM		 [Created from Email] 	
+	26770450	Tags	5.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610011531] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 02:07:37 AM	08/26/2015 02:07:37 AM		 [Created from Email] 	
+	26770451	Tags	5.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610011521] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 02:07:37 AM	08/26/2015 02:07:37 AM		 [Created from Email] 	
+	26770467	Tags	5.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610011692] Malicious content (CYSC.PHISH.SITE.EMAIL_GENERIC-2) hosted on 166.62.34.240 within your network!	Open	Low	Not Assigned	08/26/2015 02:12:45 AM	08/26/2015 02:12:45 AM		 [Created from Email] 	
+	26770478	Tags	5.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610011781] Malicious content (CYSC.PHISH.SITE.PAYPAL-115) hosted on 160.153.16.28 within your network!	Open	Low	Not Assigned	08/26/2015 02:16:14 AM	08/26/2015 02:16:14 AM		 [Created from Email] 	
+	26770573	Tags	4.93	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610014322] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-3) hosted on 184.168.152.4 within your network!	Open	Low	Not Assigned	08/26/2015 02:47:04 AM	08/26/2015 02:47:04 AM		 [Created from Email] 	
+	26770582	Tags	4.89	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610014573] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 188.121.54.90 within your network!	Open	Low	Not Assigned	08/26/2015 02:49:33 AM	08/26/2015 02:49:33 AM		 [Created from Email] 	
+	26770589	Tags	4.86	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610014635] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-5) hosted on 160.153.59.0 within your network!	Open	Low	Not Assigned	08/26/2015 02:51:16 AM	08/26/2015 02:51:16 AM		 [Created from Email] 	
+	26770595	Tags	4.84	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610014797] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 188.121.59.128 within your network!	Open	Low	Not Assigned	08/26/2015 02:52:57 AM	08/26/2015 02:52:57 AM		 [Created from Email] 	
+	26770596	Tags	4.84	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610014804] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 97.74.144.124 within your network!	Open	Low	Not Assigned	08/26/2015 02:52:58 AM	08/26/2015 02:52:58 AM		 [Created from Email] 	
+	26770598	Tags	4.82	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610014813] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 97.74.144.124 within your network!	Open	Low	Not Assigned	08/26/2015 02:53:49 AM	08/26/2015 02:53:49 AM		 [Created from Email] 	
+	26770608	Tags	4.77	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015036] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 166.62.28.106 within your network!	Open	Low	Not Assigned	08/26/2015 02:57:10 AM	08/26/2015 02:57:10 AM		 [Created from Email] 	
+	26770612	Tags	4.75	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015063] Malicious content (CYSC.DEFACEMENT.SITE.GEN-2) hosted on 50.63.81.1 within your network!	Open	Low	Not Assigned	08/26/2015 02:57:59 AM	08/26/2015 02:57:59 AM		 [Created from Email] 	
+	26770616	Tags	4.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015189] Malicious content (CYSC.PHISH.SITE.DHL-7) hosted on 50.63.82.23 within your network!	Open	Low	Not Assigned	08/26/2015 02:58:46 AM	08/26/2015 02:58:46 AM		 [Created from Email] 	
+	26770622	Tags	4.71	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015251] Malicious content (CYSC.MALWARE.TROJAN.GEN) hosted on 184.168.235.1 within your network!	Open	Low	Not Assigned	08/26/2015 03:00:24 AM	08/26/2015 03:00:24 AM		 [Created from Email] 	
+	26770623	Tags	4.71	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015358] Malicious content (CYSC.PHISH.SITE.HOTMAIL-3) hosted on 184.168.229.1 within your network!	Open	Low	Not Assigned	08/26/2015 03:00:24 AM	08/26/2015 03:00:24 AM		 [Created from Email] 	
+	26770660	Tags	4.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015938] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 23.229.192.1 within your network!	Open	Low	Not Assigned	08/26/2015 03:07:46 AM	08/26/2015 03:07:46 AM		 [Created from Email] 	
+	26770661	Tags	4.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015947] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 107.180.21.56 within your network!	Open	Low	Not Assigned	08/26/2015 03:07:46 AM	08/26/2015 03:07:46 AM		 [Created from Email] 	
+	26770662	Tags	4.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015956] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 03:07:46 AM	08/26/2015 03:07:46 AM		 [Created from Email] 	
+	26770663	Tags	4.59	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610015974] Malicious content (CYSC.PHISH.SITE.EMAIL_GENERIC-1) hosted on 23.229.214.5 within your network!	Open	Low	Not Assigned	08/26/2015 03:07:46 AM	08/26/2015 03:07:46 AM		 [Created from Email] 	
+	26770670	Tags	4.58	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016017] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 03:08:35 AM	08/26/2015 03:08:35 AM		 [Created from Email] 	
+	26770686	Tags	4.52	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016384] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 192.186.247.0 within your network!	Open	Low	Not Assigned	08/26/2015 03:11:49 AM	08/26/2015 03:11:49 AM		 [Created from Email] 	
+	26770691	Tags	4.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016419] Malicious content (CYSC.PHISH.SITE.DHL-7) hosted on 198.12.149.58 within your network!	Open	Low	Not Assigned	08/26/2015 03:12:43 AM	08/26/2015 03:12:43 AM		 [Created from Email] 	
+	26770692	Tags	4.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016437] Malicious content (CYSC.MALWARE.TROJAN.BLACKHOLE_AUTO-2) hosted on 50.63.70.1 within your network!	Open	Low	Not Assigned	08/26/2015 03:12:43 AM	08/26/2015 03:12:43 AM		 [Created from Email] 	
+	26770700	Tags	4.46	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016688] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 188.121.59.128 within your network!	Open	Low	Not Assigned	08/26/2015 03:15:25 AM	08/26/2015 03:15:25 AM		 [Created from Email] 	
+	26770703	Tags	4.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016731] Malicious content (CYSC.PHISH.REDIRECTOR.GENERIC-2) hosted on 192.169.236.161 within your network!	Open	Low	Not Assigned	08/26/2015 03:16:17 AM	08/26/2015 03:16:17 AM		 [Created from Email] 	
+	26770709	Tags	4.43	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610016786] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.1.37 within your network!	Open	Low	Not Assigned	08/26/2015 03:17:11 AM	08/26/2015 03:17:11 AM		 [Created from Email] 	
+	26770736	Tags	4.29	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017392] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 97.74.144.124 within your network!	Open	Low	Not Assigned	08/26/2015 03:25:54 AM	08/26/2015 03:25:54 AM		 [Created from Email] 	
+	26770741	Tags	4.27	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017409] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 03:26:45 AM	08/26/2015 03:26:45 AM		 [Created from Email] 	
+	26770750	Tags	4.22	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017589] Malicious content (CYSC.PHISH.SITE.YAHOO-3) hosted on 107.180.38.104 within your network!	Open	Low	Not Assigned	08/26/2015 03:30:09 AM	08/26/2015 03:30:09 AM		 [Created from Email] 	
+	26770754	Tags	4.20	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017614] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 184.168.47.225 within your network!	Open	Low	Not Assigned	08/26/2015 03:31:03 AM	08/26/2015 03:31:03 AM		 [Created from Email] 	
+	26770759	Tags	4.17	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017696] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.190.136 within your network!	Open	Low	Not Assigned	08/26/2015 03:32:54 AM	08/26/2015 03:32:54 AM		 [Created from Email] 	
+	26770760	Tags	4.17	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017749] Malicious content (CYSC.PHISH.SITE.USAA_MOBILE-2) hosted on 50.62.216.1 within your network!	Open	Low	Not Assigned	08/26/2015 03:32:54 AM	08/26/2015 03:32:54 AM		 [Created from Email] 	
+	26770763	Tags	4.16	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017785] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 166.62.28.82 within your network!	Open	Low	Not Assigned	08/26/2015 03:33:48 AM	08/26/2015 03:33:48 AM		 [Created from Email] 	
+	26770774	Tags	4.10	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610017883] Malicious content (CYSC.FRAUD.SITE.TECHSCAMMER_WARNING-1) hosted on 166.62.28.87 within your network!	Open	Low	Not Assigned	08/26/2015 03:37:23 AM	08/26/2015 03:37:23 AM		 [Created from Email] 	
+	26770784	Tags	4.04	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610018088] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 182.50.130.157 within your network!	Open	Low	Not Assigned	08/26/2015 03:40:51 AM	08/26/2015 03:40:51 AM		 [Created from Email] 	
+	26770788	Tags	4.01	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610018131] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 23.229.142.34 within your network!	Open	Low	Not Assigned	08/26/2015 03:42:42 AM	08/26/2015 03:42:42 AM		 [Created from Email] 	
+	26770792	Tags	3.99	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610018284] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 192.186.238.33 within your network!	Open	Low	Not Assigned	08/26/2015 03:43:35 AM	08/26/2015 03:43:35 AM		 [Created from Email] 	
+	26770796	Tags	3.98	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610018319] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 50.63.33.1 within your network!	Open	Low	Not Assigned	08/26/2015 03:44:29 AM	08/26/2015 03:44:29 AM		 [Created from Email] 	
+	26770813	Tags	3.89	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610018524] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 192.186.233.215 within your network!	Open	Low	Not Assigned	08/26/2015 03:49:37 AM	08/26/2015 03:49:37 AM		 [Created from Email] 	
+	26770838	Tags	3.79	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610018882] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-5) hosted on 160.153.59.0 within your network!	Open	Low	Not Assigned	08/26/2015 03:55:37 AM	08/26/2015 03:55:37 AM		 [Created from Email] 	
+	26771145	Tags	3.64	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610019489] Malicious content (CYSC.PHISH.SITE.WELLSFARGO-11) hosted on 160.153.92.218 within your network!	Open	Low	Not Assigned	08/26/2015 04:04:56 AM	08/26/2015 04:04:56 AM		 [Created from Email] 	
+	26771153	Tags	3.62	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610019569] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 50.63.48.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:05:45 AM	08/26/2015 04:05:45 AM		 [Created from Email] 	
+	26771160	Tags	3.60	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610019649] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 50.63.219.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:07:23 AM	08/26/2015 04:07:23 AM		 [Created from Email] 	
+	26771165	Tags	3.58	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610019756] Malicious content (CYSC.PHISH.SITE.IMPOTS_GOUV_FR-1) hosted on 160.153.46.4 within your network!	Open	Low	Not Assigned	08/26/2015 04:08:15 AM	08/26/2015 04:08:15 AM		 [Created from Email] 	
+	26771190	Tags	3.54	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020002] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 04:10:48 AM	08/26/2015 04:10:48 AM		 [Created from Email] 	
+	26771191	Tags	3.54	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020011] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 04:10:49 AM	08/26/2015 04:10:49 AM		 [Created from Email] 	
+	26771218	Tags	3.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020137] Malicious content (CYSC.PHISH.SITE.USAA_MOBILE-2) hosted on 107.180.0.225 within your network!	Open	Low	Not Assigned	08/26/2015 04:12:31 AM	08/26/2015 04:12:31 AM		 [Created from Email] 	
+	26771221	Tags	3.50	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020155] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 166.62.34.240 within your network!	Open	Low	Not Assigned	08/26/2015 04:13:21 AM	08/26/2015 04:13:21 AM		 [Created from Email] 	
+	26771226	Tags	3.47	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020226] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 23.229.231.39 within your network!	Open	Low	Not Assigned	08/26/2015 04:15:12 AM	08/26/2015 04:15:12 AM		 [Created from Email] 	
+	26771229	Tags	3.45	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020413] Malicious content (CYSC.PHISH.SITE.PAYPAL-96) hosted on 166.62.28.82 within your network!	Open	Low	Not Assigned	08/26/2015 04:16:03 AM	08/26/2015 04:16:03 AM		 [Created from Email] 	
+	26771244	Tags	3.39	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020575] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 50.63.40.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:19:27 AM	08/26/2015 04:19:27 AM		 [Created from Email] 	
+	26771263	Tags	3.29	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610020888] Malicious content (CYSC.MALWARE.FILE.PHPBACKDOOR-5) hosted on 160.153.71.136 within your network!	Open	Low	Not Assigned	08/26/2015 04:25:30 AM	08/26/2015 04:25:30 AM		 [Created from Email] 	
+	26771299	Tags	3.18	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610021225] Malicious content (CYSC.MALWARE.FRAME.GEN-4) hosted on 208.109.181.27 within your network!	Open	Low	Not Assigned	08/26/2015 04:32:21 AM	08/26/2015 04:32:21 AM		 [Created from Email] 	
+	26771306	Tags	3.15	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610021271] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 173.201.0.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:34:09 AM	08/26/2015 04:34:09 AM		 [Created from Email] 	
+	26771329	Tags	3.09	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610021494] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-8) hosted on 182.50.148.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:37:27 AM	08/26/2015 04:37:27 AM		 [Created from Email] 	
+	26771374	Tags	2.99	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610021896] Malicious content (CYSC.PHISH.SITE.ROYALBANKOFCANADA_CA-2) hosted on 72.167.0.128 within your network!	Open	Low	Not Assigned	08/26/2015 04:43:32 AM	08/26/2015 04:43:32 AM		 [Created from Email] 	
+	26771385	Tags	2.95	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022064] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 146.255.46.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:46:11 AM	08/26/2015 04:46:11 AM		 [Created from Email] 	
+	26771395	Tags	2.92	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022153] Malicious content (CYSC.MALWARE.FILE.PHPBACKDOOR-5) hosted on 160.153.71.136 within your network!	Open	Low	Not Assigned	08/26/2015 04:47:56 AM	08/26/2015 04:47:56 AM		 [Created from Email] 	
+	26771427	Tags	2.81	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022457] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 50.63.41.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:54:35 AM	08/26/2015 04:54:35 AM		 [Created from Email] 	
+	26771432	Tags	2.78	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022582] Malicious content (CYSC.PHISH.SITE.BANKOFAMERICA-12) hosted on 50.62.60.133 within your network!	Open	Low	Not Assigned	08/26/2015 04:56:12 AM	08/26/2015 04:56:12 AM		 [Created from Email] 	
+	26771437	Tags	2.76	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022681] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 192.186.222.167 within your network!	Open	Low	Not Assigned	08/26/2015 04:57:48 AM	08/26/2015 04:57:48 AM		 [Created from Email] 	
+	26771441	Tags	2.74	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022841] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 04:58:35 AM	08/26/2015 04:58:35 AM		 [Created from Email] 	
+	26771448	Tags	2.73	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022911] Malicious content (CYSC.PHISH.SITE.YAHOO-13) hosted on 107.180.34.199 within your network!	Open	Low	Not Assigned	08/26/2015 04:59:24 AM	08/26/2015 04:59:24 AM		 [Created from Email] 	
+	26771449	Tags	2.73	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610022948] Malicious content (CYSC.PHISH.SITE.POSTBANK_DE-2) hosted on 72.167.183.34 within your network!	Open	Low	Not Assigned	08/26/2015 04:59:24 AM	08/26/2015 04:59:24 AM		 [Created from Email] 	
+	26771460	Tags	2.70	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610023045] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 50.63.40.1 within your network!	Open	Low	Not Assigned	08/26/2015 05:01:02 AM	08/26/2015 05:01:02 AM		 [Created from Email] 	
+	26771492	Tags	2.62	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610023411] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 05:06:11 AM	08/26/2015 05:06:11 AM		 [Created from Email] 	
+	26771505	Tags	2.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610023572] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 50.63.48.1 within your network!	Open	Low	Not Assigned	08/26/2015 05:09:35 AM	08/26/2015 05:09:35 AM		 [Created from Email] 	
+	26771506	Tags	2.56	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610023581] Malicious content (CYSC.PHISH.SITE.PAYPAL-103) hosted on 50.63.33.1 within your network!	Open	Low	Not Assigned	08/26/2015 05:09:35 AM	08/26/2015 05:09:35 AM		 [Created from Email] 	
+	26771513	Tags	2.53	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610023858] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.190.136 within your network!	Open	Low	Not Assigned	08/26/2015 05:11:17 AM	08/26/2015 05:11:17 AM		 [Created from Email] 	
+	26771535	Tags	2.47	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610023947] Malicious content (CYSC.PHISH.SITE.GOOGLEDRIVE-6) hosted on 107.180.1.37 within your network!	Open	Low	Not Assigned	08/26/2015 05:14:39 AM	08/26/2015 05:14:39 AM		 [Created from Email] 	
+	26771572	Tags	2.38	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610024188] Malicious content (CYSC.PHISH.SITE.PAYPAL-120) hosted on 50.63.91.1 within your network!	Open	Low	Not Assigned	08/26/2015 05:20:33 AM	08/26/2015 05:20:33 AM		 [Created from Email] 	
+	26771573	Tags	2.38	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610024197] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 146.255.47.210 within your network!	Open	Low	Not Assigned	08/26/2015 05:20:33 AM	08/26/2015 05:20:33 AM		 [Created from Email] 	
+	26771597	Tags	2.28	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610024446] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.190.136 within your network!	Open	Low	Not Assigned	08/26/2015 05:26:33 AM	08/26/2015 05:26:33 AM		 [Created from Email] 	
+	26771610	Tags	2.25	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610024464] Malicious content (CYSC.FRAUD.SITE.PHARMACY-18) hosted on 192.186.194.103 within your network!	Open	Low	Not Assigned	08/26/2015 05:28:16 AM	08/26/2015 05:28:16 AM		 [Created from Email] 	
+	26771643	Tags	2.14	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610024651] Malicious content (CYSC.MALWARE.EXPLOIT.DRIVEBY-3) hosted on 166.62.28.88 within your network!	Open	Low	Not Assigned	08/26/2015 05:34:31 AM	08/26/2015 05:34:31 AM		 [Created from Email] 	
+	26771651	Tags	2.11	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610024786] Malicious content (CYSC.PHISH.URL.GEN) hosted on 184.168.51.1 within your network!	Open	Low	Not Assigned	08/26/2015 05:36:16 AM	08/26/2015 05:36:16 AM		 [Created from Email] 	
+	26771751	Tags	1.84	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610025338] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 107.180.2.168 within your network!	Open	Low	Not Assigned	08/26/2015 05:52:49 AM	08/26/2015 05:52:49 AM		 [Created from Email] 	
+	26771788	Tags	1.71	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610025838] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 192.186.249.97 within your network!	Open	Low	Not Assigned	08/26/2015 06:00:38 AM	08/26/2015 06:00:38 AM		 [Created from Email] 	
+	26771838	Tags	1.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610026211] Malicious content (CYSC.PHISH.SITE.JP_MORGAN_CHASE-8) hosted on 182.50.148.1 within your network!	Open	Low	Not Assigned	08/26/2015 06:08:38 AM	08/26/2015 06:08:38 AM		 [Created from Email] 	
+	26771839	Tags	1.57	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610026257] Malicious content (CYSC.PHISH.SITE.AMAZON-14) hosted on 97.74.144.124 within your network!	Open	Low	Not Assigned	08/26/2015 06:08:38 AM	08/26/2015 06:08:38 AM		 [Created from Email] 	
+	26771868	Tags	1.51	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610026981] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 107.180.26.79 within your network!	Open	Low	Not Assigned	08/26/2015 06:12:16 AM	08/26/2015 06:12:16 AM		 [Created from Email] 	
+	26771894	Tags	1.47	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610027514] Malicious content (CYSC.PHISH.SITE.FACEBOOK-6) hosted on 23.229.190.136 within your network!	Open	Low	Not Assigned	08/26/2015 06:14:53 AM	08/26/2015 06:14:53 AM		 [Created from Email] 	
+	26771895	Tags	1.47	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610027621] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 184.168.236.1 within your network!	Open	Low	Not Assigned	08/26/2015 06:14:53 AM	08/26/2015 06:14:53 AM		 [Created from Email] 	
+	26771900	Tags	1.46	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610027747] Malicious content (CYSC.EVIL.RED.EXACT-5) hosted on 160.153.16.34 within your network!	Open	Low	Not Assigned	08/26/2015 06:15:49 AM	08/26/2015 06:15:49 AM		 [Created from Email] 	
+	26771960	Tags	1.31	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610028568] Malicious content (CYSC.SUSPICIOUS.JAVASCRIPT.INSERT-1) hosted on 173.201.141.1 within your network!	Open	Low	Not Assigned	08/26/2015 06:24:16 AM	08/26/2015 06:24:16 AM		 [Created from Email] 	
+	26771961	Tags	1.31	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610028586] Malicious content (CYSC.MALWARE.TROJAN.GEN) hosted on 184.168.192.126 within your network!	Open	Low	Not Assigned	08/26/2015 06:24:16 AM	08/26/2015 06:24:16 AM		 [Created from Email] 	
+	26772032	Tags	1.09	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029192] Malicious content (CYSC.MALWARE.IFRAME.INSERT-4) hosted on 97.74.144.88 within your network!	Open	Low	Not Assigned	08/26/2015 06:37:57 AM	08/26/2015 06:37:57 AM		 [Created from Email] 	
+	26772093	Tags	0.92	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029638] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 68.178.254.180 within your network!	Open	Low	Not Assigned	08/26/2015 06:48:12 AM	08/26/2015 06:48:12 AM		 [Created from Email] 	
+	26772104	Tags	0.90	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029683] Malicious content (CYSC.MALWARE.FILE.PHP_UPLOADER-1) hosted on 160.153.48.194 within your network!	Open	Low	Not Assigned	08/26/2015 06:49:03 AM	08/26/2015 06:49:03 AM		 [Created from Email] 	
+	26772105	Tags	0.90	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029692] Malicious content (CYSC.MALWARE.FILE.PHP_UPLOADER-1) hosted on 160.153.48.194 within your network!	Open	Low	Not Assigned	08/26/2015 06:49:04 AM	08/26/2015 06:49:04 AM		 [Created from Email] 	
+	26772122	Tags	0.86	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029834] Malicious content (CYSC.PHISH.SITE.GOOGLEDOCS-15) hosted on 146.255.46.1 within your network!	Open	Low	Not Assigned	08/26/2015 06:51:42 AM	08/26/2015 06:51:42 AM		 [Created from Email] 	
+	26772137	Tags	0.83	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029905] Malicious content (CYSC.MALWARE.FILE.PHPBACKDOOR-5) hosted on 107.180.2.196 within your network!	Open	Low	Not Assigned	08/26/2015 06:53:33 AM	08/26/2015 06:53:33 AM		 [Created from Email] 	
+Mark as Spam
+	
+Bulk Update
+	
+			Page  of 5				
+View 301 - 400
+Filter:
+Group:
+	 
+ID
+	 
+Tags
+	 
+Assign Grp Hours
+	 
+Service
+	 
+Category
+	 
+Email
+	 
+Summary
+	 
+Status
+	 
+Pri
+	 
+Assigned To
+	 
+Created
+	 
+Updated
+	 
+Shopper
+	 
+Src
+	 
+Att
+															
+	26772138	Tags	0.83	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029914] Malicious content (CYSC.MALWARE.URL.GEN) hosted on 72.167.131.52 within your network!	Open	Low	Not Assigned	08/26/2015 06:53:33 AM	08/26/2015 06:53:33 AM		 [Created from Email] 	
+	26772154	Tags	0.79	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610029951] Malicious content (CYSC.PHISH.SITE.PAYPAL-106) hosted on 72.167.25.132 within your network!	Open	Low	Not Assigned	08/26/2015 06:56:11 AM	08/26/2015 06:56:11 AM		 [Created from Email] 	
+	26772280	Tags	0.50	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610030617] Malicious content (CYSC.PHISH.SITE.YAHOO-6) hosted on 192.169.197.82 within your network!	Open	Low	Not Assigned	08/26/2015 07:13:27 AM	08/26/2015 07:13:27 AM		 [Created from Email] 	
+	26772318	Tags	0.41	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610030886] Malicious content (CYSC.PHISH.SITE.ALIBABA_HK-3) hosted on 50.63.219.1 within your network!	Open	Low	Not Assigned	08/26/2015 07:18:40 AM	08/26/2015 07:18:40 AM		 [Created from Email] 	
+	26772319	Tags	0.41	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610030895] Malicious content (CYSC.PHISH.SITE.EDF_FR-1) hosted on 184.168.204.1 within your network!	Open	Low	Not Assigned	08/26/2015 07:18:41 AM	08/26/2015 07:18:41 AM		 [Created from Email] 	
+	26772347	Tags	0.35	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610030993] Malicious content (CYSC.PHISH.SITE.DROPBOX-5) hosted on 107.180.41.49 within your network!	Open	Low	Not Assigned	08/26/2015 07:22:22 AM	08/26/2015 07:22:22 AM		 [Created from Email] 	
+	26772425	Tags	0.19	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610031331] Malicious content (CYSC.PHISH.SITE.GOV_UK-1) hosted on 192.186.235.161 within your network!	Open	Low	Not Assigned	08/26/2015 07:31:55 AM	08/26/2015 07:31:55 AM		 [Created from Email] 	
+	26772437	Tags	0.16	Malware Reports	New	abuse-reports@cyscon.de	[CSIRT#2015082610031349] Malicious content (CYSC.DEFACEMENT.SITE.GEN-2) hosted on 23.229.128.37 within your network!	Open	Low	Not Assigned	08/26/2015 07:33:43 AM	08/26/2015 07:33:43 AM		 [Created from Email] 	
